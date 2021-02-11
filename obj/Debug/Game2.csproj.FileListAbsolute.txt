@@ -1,0 +1,10 @@
+C:\Users\Elvin\source\repos\Game\Game2\bin\Debug\Game2.exe.config
+C:\Users\Elvin\source\repos\Game\Game2\bin\Debug\Game2.exe
+C:\Users\Elvin\source\repos\Game\Game2\bin\Debug\Game2.pdb
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.csprojAssemblyReference.cache
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.form.resources
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.Properties.Resources.resources
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.exe
+C:\Users\Elvin\source\repos\Game\Game2\obj\Debug\Game2.pdb
